@@ -1,18 +1,14 @@
 # **Hola, soy Anthony Cáceda Peralta** 👋
 ### 🤖 Ingeniero de Datos | Desarrollador de IA | Asistente DPO
 
-> *"Uniendo la seguridad jurídica con la potencia de la Inteligencia Artificial."*
 
 [![Madrid](https://img.shields.io/badge/Ubicación-Madrid%2C%20España-red?style=flat-square&logo=google-maps)](https://maps.google.com)
-[![Email](https://img.shields.io/badge/Email-anthonycp.code%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:anthonycp.code@gmail.com)
 
 ---
 
 # **🚀 Sobre Mí**
 
-Soy un perfil **híbrido y estratégico**. No solo programo, sino que entiendo las reglas del juego. Combino la **Ingeniería de Datos** y la **IA Generativa** con una sólida base en **Derecho y Privacidad**.
-
-* 🔭 **Actualmente trabajando en:** Desarrollo de agentes autónomos y seguridad jurídica tecnológica.
+* 🔭 **Actualmente trabajando en:** Desarrollo de agentes autónomos.
 * 🌱 **Aprendiendo:** Modelos avanzados de LLM y arquitecturas basadas en eventos.
 * ⚖️ **Filosofía:** La tecnología debe ser potente, pero también segura y legal.
 
@@ -67,7 +63,6 @@ Lideré la solución técnica para este desafío global:
 
 * 🎓 **Programa en Inteligencia Artificial** (2025-2026): Especialización en ML, ETL y Agentes.
 * 🔐 **Seguridad Informática Nivel 3** (2024-2025): Auditoría, criptografía y gestión de incidentes.
-* ⚖️ **Estudios de Derecho:** Universidad Privada Antenor Orrego.
 
 ---
 
