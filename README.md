@@ -1,4 +1,4 @@
-# **Hola, soy Anthony Cáceda Peralta** 👋
+# **Hola, soy Anthony Cáceda** 👋
 ### 🤖 Ingeniero de Datos | Desarrollador de IA | Asistente DPO
 
 
